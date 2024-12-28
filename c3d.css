@@ -53,3 +53,9 @@
     color: #fff;
     font-family: "Dancing Script", serif;
 } 
+
+@media (max-width: 480px) {
+.title{
+    font-size: 2em;
+}
+    }
